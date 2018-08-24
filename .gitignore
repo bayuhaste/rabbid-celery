@@ -1,3 +1,6 @@
+svc_config/
+celeryenv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
